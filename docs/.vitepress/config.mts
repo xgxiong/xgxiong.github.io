@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: 'xgxiong.github.io',
+  base: '/',
   title: 'Xgxiong博客',
   description: '生活自由',
   themeConfig: {
